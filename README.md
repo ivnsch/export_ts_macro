@@ -2,6 +2,8 @@ Macro to derive wasm-bindgen Typescript definitons from structs.
 
 ⚠️ Early WIP!
 
+⚠️ Found library that does this: [tsify](https://github.com/madonoharu/tsify) -> stopping work.
+
 ## Install
 
 ```
